@@ -86,31 +86,7 @@ I believe the best way to master technology is to <b>build, fail, debug, rebuild
 <table>
 <tr>
 
-<td align="center" width="25%">
-<b>Smart India Hackathon</b>
-<br><br>
-<sub>Participant</sub>
-<br>
-<code>SIH · 2025</code>
-</td>
-
-<td align="center" width="25%">
-<b>Adobe University Hackathon</b>
-<br><br>
-<sub>Participant</sub>
-<br>
-<code>Adobe · 2026</code>
-</td>
-
-<td align="center" width="25%">
-<b>Spark Tank Pitching</b>
-<br><br>
-<sub>Innovation Pitch</sub>
-<br>
-<code>E-Cell · 2025</code>
-</td>
-
-<td align="center" width="25%">
+<td align="center" width="100%">
 <b>TechFest Hackathon</b>
 <br><br>
 <sub>Participant</sub>
